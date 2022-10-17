@@ -4,12 +4,6 @@
 	"parameters": {
 		"factoryName": {
 			"value": "resoadf"
-		},
-		"LSGitHub_credential": {
-			"value": ""
-		},
-		"LSGitHub_properties_typeProperties_username": {
-			"value": "dheerajtuteja"
 		}
 	}
 }
